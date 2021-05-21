@@ -1,0 +1,33 @@
+.content__text{
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 45px;
+    line-height: 1.5;
+}
+
+.content{
+    display: flex;
+    justify-content:center;
+}
+
+p{
+    padding-bottom: 25px;
+}
+
+.container__title{
+    font-size: 25px;
+    font-weight: 700;
+    padding-bottom: 45px;
+    line-height: 1.5;
+}
+
+.content__img{
+    max-width: 475px;
+    max-height: 713px;
+}
+
+.content__label{
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}

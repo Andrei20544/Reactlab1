@@ -1,0 +1,41 @@
+@media (max-width: 1024px){
+    .content{
+        display: block;
+    }  
+    .content__inner{
+        padding-bottom: 10px;
+        padding-right: 0px;
+        text-align: center;
+        margin-right: auto;
+    }  
+    .content__text{
+        max-width: none;
+    }
+    .content__form{
+        justify-content: center;
+    }
+    
+    label{
+        right: 10px;
+    }
+
+    .container__title{
+        text-align: center;
+    }
+
+    input {
+        width: 300px;
+    }
+}
+
+@media (max-width: 680px){
+    .content__inner{
+        min-width: 100px;
+    }  
+}
+
+@media (max-width: 330px){
+    .content__input{
+        display: initial;
+    }
+}
