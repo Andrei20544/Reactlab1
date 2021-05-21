@@ -21,3 +21,11 @@
 ul{
     color: red;
 }
+
+.item-title{
+    font-size: 30px;
+}
+
+.item__link{
+    padding-bottom: 30px;
+}
