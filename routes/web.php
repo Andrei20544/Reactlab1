@@ -37,3 +37,8 @@ Route::get('/news', function () {
 Route::get('/schedule', function () {
     return view('schedule');
 });
+
+Route::get('/order', function () {
+    return view('order');
+});
+

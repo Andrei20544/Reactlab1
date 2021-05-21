@@ -30,7 +30,9 @@
                         <a class="header__link" href="/contacts">Контакты</a>
                     </div>
                     <button class="button_menu">МЕНЮ</button>
-                    <button class="button_call">ЗАПИСЬ ОНЛАЙН</button>
+                    <form action="/order">
+                                <button class="button_call">ЗАПИСЬ ОНЛАЙН</button>
+                    </form>  
                 </div>
             </div>
         </div>
