@@ -1,0 +1,24 @@
+@media (max-width: 1184px) {
+    .content{
+        display: block;
+        justify-content: normal;
+    }
+
+    .content__inner{
+        margin-right: auto;
+    }
+
+    .content__img{
+        width: 450px;
+        height: 750px;
+    }
+}
+
+@media (max-width: 665px){
+    .content__img-about{
+        width: 450px;
+        height: 750px;
+
+        transition: all .5s;
+    }
+}

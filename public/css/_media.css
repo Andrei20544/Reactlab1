@@ -12,7 +12,7 @@
     .header__link{
         margin-right: auto;
         margin-left: auto;
-    }      
+    }
 }
 
 @media (max-width: 990px) {
@@ -50,7 +50,7 @@
     .slider__description-textUp{
         max-width: 990px;
         line-height: 45px;
-    }   
+    }
 
 }
 
@@ -74,12 +74,12 @@
         display: inline-grid;
         justify-content: center;
         text-align: center;
-        margin-top: 25px;      
+        margin-top: 25px;
 
         transition: all .3s;
     }
 
-    .header__content{     
+    .header__content{
         align-items: end;
 
         transition: all .3s;
@@ -88,7 +88,7 @@
     .menu--open{
         transform: translateY(-360px);
     }
-    
+
     .menu--open{
         height: 50px;
     }
@@ -136,6 +136,11 @@
 
     th{
         min-width: 50px;
+    }
+
+    .img{
+        width: 450px;
+        height: 750px;
     }
 }
 

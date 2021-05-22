@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/style_about.css">
+    <link rel="stylesheet" href="css/_media.css">
+    <link rel="stylesheet" href="css/_mediaabout.css">
 </head>
 <body id="comp">
 <component_header></component_header>
@@ -16,8 +18,8 @@
     <div class="content__label">О клубе</div>
     <div class="content">
         <div class="content__inner">
-            <div class="content__img">
-                <img src="images/aboutimg.jpg" alt="about club">
+            <div class="content__img-about">
+                <img class="img" src="images/aboutimg.jpg" alt="about club">
             </div>
         </div>
         <div class="content__inner">
