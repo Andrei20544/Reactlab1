@@ -21,7 +21,7 @@
         <div class="header__darkbg">
             <div class="container">
                 <div class="header__content header--open">
-                    <a class="logo" href="#">
+                    <a class="logo" href="/">
                         <img class="logo__img" src="images/logo.png" alt="logo">
                     </a>
                     <div class="header__content-center menu--open">
@@ -34,7 +34,7 @@
                     <button class="button_menu">МЕНЮ</button>
                     <form action="/order">
                                 <button class="button_call">ЗАПИСЬ ОНЛАЙН</button>
-                    </form>  
+                    </form>
                 </div>
             </div>
         </div>
